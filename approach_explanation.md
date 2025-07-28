@@ -44,5 +44,5 @@ The system is containerized using a Dockerfile that installs dependencies and ex
 
 - Heuristic-based heading detection may not work well on documents with inconsistent formatting
 - Does not capture section nesting or inline formatting beyond headings
-```
+
 
