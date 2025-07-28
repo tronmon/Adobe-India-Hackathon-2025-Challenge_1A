@@ -1,0 +1,10 @@
+[project]
+name = "Challenge_1a"
+version = "0.1.0"
+description = "Tool to extract title and heading levels from pdfs"
+readme = "README.rst"
+requires-python = ">=3.10"
+dependencies = [
+    "pymupdf>=1.26.3",
+]
+
